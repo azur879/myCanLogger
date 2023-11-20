@@ -1,1 +1,6 @@
-reads can bus and puts can frames from /tmp/sockets
+# myIpc
+trying out some simple inter process communication.
+
+mkdir build && cd build
+cmake ..
+make
